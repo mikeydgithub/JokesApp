@@ -4,8 +4,7 @@
   1. [Title](#Title)
   2. [Usage](#Usage)
   3. [Installation](#Installtion)
-  4. [Packages](#Packages)
-  5. [Story](#Story)
+  4. [Story](#Story)
 
 
   ## Usage
